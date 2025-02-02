@@ -1,0 +1,3 @@
+[submodule "nuxt-client"]
+	path = nuxt-client
+	url = git@github.com:AgnijaIlzena/nuxt-client.git

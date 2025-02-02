@@ -4,3 +4,6 @@
 [submodule "symfony-rest-api"]
 	path = symfony-rest-api
 	url = git@github.com:AgnijaIlzena/symfony-rest-api.git
+[submodule "angular-client"]
+	path = angular-client
+	url = git@github.com:AgnijaIlzena/angular-client.git

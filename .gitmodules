@@ -7,3 +7,6 @@
 [submodule "angular-client"]
 	path = angular-client
 	url = git@github.com:AgnijaIlzena/angular-client.git
+[submodule "py-rest-api"]
+	path = py-rest-api
+	url = git@github.com:AgnijaIlzena/py-rest-api.git
